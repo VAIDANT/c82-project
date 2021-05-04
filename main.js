@@ -11,7 +11,7 @@ var last_position_of_x, last_position_of_y;
     {
         color = document.getElementById("color").value;
         width_of_line = document.getElementById("width_of_line").value;
-        radius = document.getElementById("radius")
+        radius = document.getElementById("radius").value;
 
         mouseEvent = "mouseDown";
     }
